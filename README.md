@@ -1,9 +1,9 @@
 # REST-APIs
 
-POST – This would be used to create a new employee using the RESTful web service
-GET – This would be used to get a list of all employee using the RESTful web service
-PUT – This would be used to update all employee using the RESTful web service
-DELETE – This would be used to delete all employee using the RESTful services
+POST – This would be used to create a new employee using the RESTful web service </br>
+GET – This would be used to get a list of all employee using the RESTful web service </br>
+PUT – This would be used to update all employee using the RESTful web service </br>
+DELETE – This would be used to delete all employee using the RESTful services </br>
 
 ## Tutorial
 
